@@ -1,0 +1,30 @@
+{
+  "name": "clg-test",
+  "version": "1.0.0",
+  "description": "clg test replace default console.log , alert and popups with new modern  popups",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmedreda20/clg-test.git"
+  },
+  "keywords": [
+    "clg",
+    "console.log",
+    "frontend",
+    "developerment",
+    "npm",
+    "node"
+  ],
+  "author": "ahmed-reda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmedreda20/clg-test/issues"
+  },
+  "homepage": "https://github.com/Ahmedreda20/clg-test#readme"
+}
